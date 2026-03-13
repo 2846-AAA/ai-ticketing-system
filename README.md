@@ -278,7 +278,6 @@ AI suggests categories based on content:
 ## 🧪 Testing with Postman
 
 ### Import Collection
-
 1. Open Postman
 2. Import the following endpoints as a collection
 
@@ -398,8 +397,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [2846-AAA](https://github.com/2846-AAA)
+- LinkedIn: www.linkedin.com/in/anuja-dhamdhere-90795a2b8
 
 ---
 
@@ -416,7 +415,8 @@ This project is licensed under the MIT License.
 
 For issues or questions:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: anujadhamdhere28@gmail.com
+- 
 
 ---
 
